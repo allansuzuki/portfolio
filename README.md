@@ -6,6 +6,7 @@
 <sub>*Data Scientist*</sub>
 
 -about me-
+
 **Background in:** Python, Machine Learning, SQL, Problem solving.
 
 **Links:**
