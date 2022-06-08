@@ -15,9 +15,10 @@ Data scientist in love for the universe where incredible things are possible thr
 * [Medium](https://medium.com/@asuzukipk)
 
 
-## Principais Projetos:
+## Main projects:
 
-* **Ongoing**
+* [**Airbnb Portugal data Analysis**](https://github.com/allansuzuki/AirbnbPT_Analisys)
+* **On going**
 
 ---
 
