@@ -18,7 +18,7 @@ Data scientist in love for the universe where incredible things are possible thr
 ## Main projects:
 
 * [**Airbnb Portugal data Analysis**](https://github.com/allansuzuki/AirbnbPT_Analisys)
-* **On going**
+* [**COVID-19 Background Analysis**](https://github.com/allansuzuki/Brazil_Covid19_Analysis)
 
 ---
 
