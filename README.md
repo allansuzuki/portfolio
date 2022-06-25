@@ -19,6 +19,7 @@ Data scientist in love for the universe where incredible things are possible thr
 
 * [**Airbnb Portugal data Analysis**](https://github.com/allansuzuki/AirbnbPT_Analisys)
 * [**COVID-19 Background Analysis**](https://github.com/allansuzuki/Brazil_Covid19_Analysis)
+* [**Credit Card Fraud Detection**](https://github.com/allansuzuki/Credit_Card_Fraud)
 * **On going**
 
 ---
