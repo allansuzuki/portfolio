@@ -21,6 +21,7 @@ Data scientist in love for the universe where incredible things are possible thr
 * [**COVID-19 Background Analysis**](https://github.com/allansuzuki/Brazil_Covid19_Analysis)
 * [**Credit Card Fraud Detection**](https://github.com/allansuzuki/Credit_Card_Fraud)
 * [**Churn Prediction - unsatisfied customers**](https://github.com/allansuzuki/Churn_Prediction)
+* [**Sales Prediction - Time series forecast**](https://github.com/allansuzuki/sales_predict) 
 * **On going**
 
 ---
