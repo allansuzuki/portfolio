@@ -6,13 +6,13 @@
 <sub>*Data Scientist*</sub>
 
 Data scientist in love for the universe where incredible things are possible throught computer and AI (machine learning and deep learning).
-<br> I'm graduated in engineering at USP (São Paulo University), data analyst for 3+ years and avid for the machine learning universe the whole life.
+<br> I'm graduated in engineering at USP (São Paulo University), working as a data scientist and 3+ years as data analyst. Avid for the machine learning universe the whole life and on.
 
 **Background in:** Python, Machine Learning, SQL, Problem solving.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/allanysuzuki)
-<!--* [Medium](https://medium.com/@asuzukipk) -->
+* [Medium](https://medium.com/@asuzukipk)
 
 
 ## Main projects:
