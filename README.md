@@ -17,15 +17,12 @@ Data scientist in love for the universe where incredible things are possible thr
 
 ## Main projects:
 
-* [**Airbnb Portugal data Analysis**](https://github.com/allansuzuki/AirbnbPT_Analisys)
-* [**COVID-19 Background Analysis**](https://github.com/allansuzuki/Brazil_Covid19_Analysis)
-* [**Credit Card Fraud Detection**](https://github.com/allansuzuki/Credit_Card_Fraud)
-* [**Churn Prediction - unsatisfied customers**](https://github.com/allansuzuki/Churn_Prediction)
+* [**Fake News Classifier**](https://github.com/allansuzuki/BRFakeNews)
 * [**Sales Prediction - Time series forecast**](https://github.com/allansuzuki/sales_predict) 
+* [**Churn Prediction - unsatisfied customers**](https://github.com/allansuzuki/Churn_Prediction)
+* [**Credit Card Fraud Detection**](https://github.com/allansuzuki/Credit_Card_Fraud)
+* [**COVID-19 Background Analysis**](https://github.com/allansuzuki/Brazil_Covid19_Analysis)
+* [**Airbnb Portugal data Analysis**](https://github.com/allansuzuki/AirbnbPT_Analisys)
 * **On going**
 
 ---
-
-
-
-
