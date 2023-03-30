@@ -17,10 +17,11 @@ Data scientist in love for the universe where incredible things are possible thr
 
 ## Main projects:
 
-* [**Reinforcement learning: Playing Open source DOOM**](https://huggingface.co/asuzuki/rl_course_vizdoom_health_gathering_supreme)
+* [**Reinforcement learning: Playing Open source Doom game**](https://huggingface.co/asuzuki/rl_course_vizdoom_health_gathering_supreme)
 * [**Reinforcement learning: Playing Lunar Lander game**](https://huggingface.co/asuzuki/unit1-ppo-LunarLander-v2)
+* [**Reinforcement learning: Other RL models**](https://huggingface.co/asuzuki)
 * [**Fake News Classifier**](https://github.com/allansuzuki/BRFakeNews)
-* [**Sales Prediction - Time series forecast**](https://github.com/allansuzuki/sales_predict) 
+* [**Sales Prediction - Time series forecast**](https://github.com/allansuzuki/sales_predict)
 * [**Churn Prediction - unsatisfied customers**](https://github.com/allansuzuki/Churn_Prediction)
 * [**Credit Card Fraud Detection**](https://github.com/allansuzuki/Credit_Card_Fraud)
 * [**COVID-19 Background Analysis**](https://github.com/allansuzuki/Brazil_Covid19_Analysis)
