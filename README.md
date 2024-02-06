@@ -16,7 +16,7 @@ Data scientist in love for the universe where incredible things are possible thr
 
 
 ## Main projects:
-
+* [**LLM QA bot based on provided documents**](https://github.com/allansuzuki/LLM_RAG_model)
 * [**Reinforcement learning: Playing Open source Doom game**](https://huggingface.co/asuzuki/rl_course_vizdoom_health_gathering_supreme)
 * [**Reinforcement learning: Playing Lunar Lander game**](https://huggingface.co/asuzuki/unit1-ppo-LunarLander-v2)
 * [**Reinforcement learning: Other RL models**](https://huggingface.co/asuzuki)
